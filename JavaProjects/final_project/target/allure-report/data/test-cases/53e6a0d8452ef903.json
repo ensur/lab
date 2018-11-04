@@ -1,0 +1,52 @@
+{
+  "uid" : "53e6a0d8452ef903",
+  "name" : "Test",
+  "fullName" : "ru.mail.horo.HoroMailAlign_Test.Test",
+  "historyId" : "e542c072cb06165994c751de347fde3e",
+  "time" : {
+    "start" : 1525318168211,
+    "stop" : 1525318200205,
+    "duration" : 31994
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "ru.mail.horo"
+  }, {
+    "name" : "testClass",
+    "value" : "ru.mail.horo.HoroMailAlign_Test"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test"
+  }, {
+    "name" : "suite",
+    "value" : "ru.mail.horo.HoroMailAlign_Test"
+  }, {
+    "name" : "host",
+    "value" : "Nikolay-PK"
+  }, {
+    "name" : "thread",
+    "value" : "2712@Nikolay-PK.pool-1-thread-2(18)"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "blocker",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "53e6a0d8452ef903.json",
+  "parameterValues" : [ ]
+}

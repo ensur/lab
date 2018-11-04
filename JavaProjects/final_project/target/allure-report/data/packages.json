@@ -1,0 +1,33 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "ru.mail.horo",
+    "children" : [ {
+      "name" : "Test",
+      "uid" : "53e6a0d8452ef903",
+      "parentUid" : "928ba339b393e48b9f019b8cbbbf0dca",
+      "status" : "passed",
+      "time" : {
+        "start" : 1525318168211,
+        "stop" : 1525318200205,
+        "duration" : 31994
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Test2",
+      "uid" : "fed3b60ed76d26a0",
+      "parentUid" : "928ba339b393e48b9f019b8cbbbf0dca",
+      "status" : "passed",
+      "time" : {
+        "start" : 1525318168211,
+        "stop" : 1525318198726,
+        "duration" : 30515
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "ru.mail.horo"
+  } ]
+}

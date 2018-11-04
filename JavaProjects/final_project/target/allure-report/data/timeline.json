@@ -1,0 +1,41 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "Nikolay-PK",
+    "children" : [ {
+      "name" : "2712@Nikolay-PK.pool-1-thread-2(18)",
+      "children" : [ {
+        "name" : "Test",
+        "uid" : "53e6a0d8452ef903",
+        "parentUid" : "79a598744a6a67acf8fe681560d08458",
+        "status" : "passed",
+        "time" : {
+          "start" : 1525318168211,
+          "stop" : 1525318200205,
+          "duration" : 31994
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "79a598744a6a67acf8fe681560d08458"
+    }, {
+      "name" : "2712@Nikolay-PK.pool-1-thread-3(19)",
+      "children" : [ {
+        "name" : "Test2",
+        "uid" : "fed3b60ed76d26a0",
+        "parentUid" : "c3d152cd70ba9cea3e7f1249961a69f0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1525318168211,
+          "stop" : 1525318198726,
+          "duration" : 30515
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c3d152cd70ba9cea3e7f1249961a69f0"
+    } ],
+    "uid" : "b510b03596a8864aa7e733e5be043b1f"
+  } ]
+}
